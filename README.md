@@ -6,4 +6,3 @@ Version 1.0:
 
 Requirements
 - Android 4.0.3
-
