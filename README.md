@@ -9,4 +9,4 @@ Requirements:
 - Compatible with Phones & Tablets
 
 Available via:
-Amazon: https://www.amazon.com/dp/B076896C53/
+- Amazon App Store: https://www.amazon.com/dp/B076896C53/
