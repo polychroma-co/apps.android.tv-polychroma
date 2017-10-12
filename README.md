@@ -4,6 +4,9 @@ TV Polychroma for Android is a mobile app for viewing TV Polychroma, a 24/7 WebT
 Version 1.0:
 - Initial release
 
-Requirements
+Requirements:
 - Android 4.0.3
 - Compatible with Phones & Tablets
+
+Available via:
+Amazon: https://www.amazon.com/dp/B076896C53/
