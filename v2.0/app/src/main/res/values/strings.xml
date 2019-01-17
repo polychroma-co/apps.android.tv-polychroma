@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TV Polychroma</string>
+    <string name="browse_title"><![CDATA[TV Polychroma]]></string>
+
+    <!-- Error messages -->
+    <string name="title_tv_polychroma">TVPolychroma</string>
+
+    <string name="title_tv_polychroma_full_screen">TVPolychroma</string>
+</resources>
